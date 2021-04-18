@@ -1,0 +1,23 @@
+h1{
+    color:purple;
+}
+/*{
+    border: solid;
+}
+*/
+.header{
+    background-color: aqua;
+    display:flex;
+    justify-content: space-between;
+}
+.grid{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    background-color:#B73333;
+}
+
+.footer{
+    display:flex;
+    justify-content: flex-end;
+}
